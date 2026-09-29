@@ -1,6 +1,8 @@
 # Secrets — never commit these
-credentials.json
-token.json
+credentials*.json
+token.json*
+.env
+.env.*
 
 # Python
 __pycache__/
